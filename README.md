@@ -46,13 +46,3 @@ npm run build
 
 Outputs static files to `dist/`.
 
-## Deploy (free options)
-
-- **Vercel**: `npm i -g vercel` then `vercel` in this folder — auto-detects
-  Vite.
-- **Netlify**: drag-and-drop the `dist/` folder at app.netlify.com/drop, or
-  connect the GitHub repo for auto-deploys.
-- **GitHub Pages**: build, then push `dist/` to a `gh-pages` branch (or use
-  the `gh-pages` npm package).
-
-Any of these give you a live URL to put in your resume and LinkedIn.
