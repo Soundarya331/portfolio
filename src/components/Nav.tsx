@@ -52,7 +52,7 @@ export default function Nav() {
         <ul className="hidden gap-7 sm:flex">
           {links.map((link) => (
             <li key={link.href}>
-              
+              <a
                 href={link.href}
                 className={`font-mono text-xs transition ${
                   active === link.href ? 'text-teal' : 'text-muted hover:text-teal'
@@ -88,7 +88,7 @@ export default function Nav() {
         <ul className="flex flex-col gap-1 border-t border-border px-6 py-4 sm:hidden">
           {links.map((link) => (
             <li key={link.href}>
-              
+              <a
                 href={link.href}
                 onClick={() => setMenuOpen(false)}
                 className={`block py-2 font-mono text-sm transition ${
