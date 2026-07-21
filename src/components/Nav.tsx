@@ -46,7 +46,7 @@ export default function Nav() {
   return (
     <header className="sticky top-0 z-20 border-b border-border bg-bg/85 backdrop-blur">
       <nav className="mx-auto flex max-w-6xl items-center justify-between px-6 py-4">
-        <a href="#top" className="font-mono text-sm text-text">
+        <a href="#top" className="font-mono text-base font-medium text-text sm:text-lg">
           soundarya<span className="text-teal">.</span>dev
         </a>
         <ul className="hidden gap-7 sm:flex">
