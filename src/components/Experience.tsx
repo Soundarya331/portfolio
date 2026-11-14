@@ -30,6 +30,22 @@ const experiences: ExperienceItem[] = [
     skills: ['React', 'Next.js', 'TypeScript', 'NestJS', 'Node.js', 'PostgreSQL', 'Redis', 'OpenAI API', 'Docker', 'GCP', 'GitHub Actions', 'JWT / RBAC'],
   },
   {
+    company: 'JSpiders Institute, Bengaluru',
+    role: 'Java Full Stack Developer Intern',
+    location: 'Bengaluru, India',
+    period: 'July 2024 – March 2025',
+    product: 'Learning Management System (LMS)',
+    type: 'fulltime',
+    points: [
+      'Built and maintained backend REST APIs and PostgreSQL schemas for a Learning Management System (LMS), handling course management, user enrollment, progress tracking, and role-based access control.',
+      'Developed responsive frontend views using HTML, CSS, JavaScript and React, integrated with backend APIs for seamless student and instructor experiences.',
+      'Implemented user authentication, session management, and RBAC using Java Spring Boot and Spring Security.',
+      'Completed hands-on training in Core Java, Spring Boot, Spring MVC, Hibernate, and JDBC — applying skills directly in production LMS feature development.',
+      'Participated in code reviews, debugging sessions, and iterative feature delivery across the full Java stack.',
+    ],
+    skills: ['Java', 'Spring Boot', 'Spring MVC', 'Hibernate', 'JDBC', 'SQL', 'React', 'HTML', 'CSS', 'JavaScript', 'PostgreSQL', 'REST APIs'],
+  },
+  {
     company: 'AIEMS College of Engineering',
     role: 'Bachelor of Engineering (B.E.), Computer Science',
     location: 'Bengaluru, India',
