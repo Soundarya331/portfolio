@@ -136,7 +136,7 @@ export default function Nav() {
           <div className="mb-3 flex items-center justify-between pb-3 border-b border-border">
             <span className="inline-flex items-center gap-1.5 rounded-full border border-teal/20 bg-teal/5 px-2.5 py-0.5 font-mono text-[11px] text-teal">
               <span className="h-1.5 w-1.5 rounded-full bg-teal animate-pulse"></span>
-              Open to Backend / Cloud Roles
+              Open to Full Stack Roles
             </span>
           </div>
           <ul className="flex flex-col gap-2">

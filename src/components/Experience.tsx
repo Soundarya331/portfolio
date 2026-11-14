@@ -46,7 +46,7 @@ const experiences: ExperienceItem[] = [
 
 export default function Experience() {
   return (
-    <section id="experience" className="mx-auto max-w-6xl border-t border-border/80 px-6 py-24">
+    <section id="experience" className="mx-auto max-w-6xl border-t border-border/80 px-4 sm:px-6 py-16 sm:py-24">
       <Reveal>
         <p className="eyebrow">experience · career_trajectory</p>
         <h2 className="mt-2 font-display text-3xl font-semibold text-text sm:text-4xl">

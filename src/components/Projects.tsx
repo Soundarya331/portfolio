@@ -128,7 +128,7 @@ export default function Projects() {
       : projects.filter((p) => p.category.includes(filter))
 
   return (
-    <section id="projects" className="mx-auto max-w-6xl border-t border-border/80 px-6 py-24">
+    <section id="projects" className="mx-auto max-w-6xl border-t border-border/80 px-4 sm:px-6 py-16 sm:py-24">
       <Reveal>
         <div className="flex flex-col justify-between gap-4 sm:flex-row sm:items-end">
           <div>

@@ -24,7 +24,7 @@ export default function Hero() {
       id="top"
       ref={sectionRef}
       onMouseMove={handleMouseMove}
-      className="relative mx-auto max-w-6xl px-6 pt-10 pb-16 sm:pt-14 sm:pb-20 overflow-hidden"
+      className="relative mx-auto max-w-6xl px-4 sm:px-6 pt-8 pb-14 sm:pt-14 sm:pb-20 overflow-hidden"
     >
       {/* Animated particle canvas */}
       <Particles count={48} />
@@ -50,7 +50,7 @@ export default function Hero() {
           </div>
 
           {/* Main Headline with shimmer on name */}
-          <h1 className="mt-5 font-display text-4xl font-semibold leading-[1.15] text-text sm:text-5xl lg:text-[3.5rem]">
+          <h1 className="mt-5 font-display text-3xl font-semibold leading-[1.15] text-text sm:text-5xl lg:text-[3.5rem]">
             <span>Hi, I&apos;m </span>
             <span className="shimmer-text">Soundarya P</span>
             <br />
