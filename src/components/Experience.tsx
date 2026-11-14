@@ -31,9 +31,9 @@ const experiences: ExperienceItem[] = [
   },
   {
     company: 'JSpiders Institute, Bengaluru',
-    role: 'Java Full Stack Developer Intern',
+    role: 'Full Stack Java Developer Intern',
     location: 'Bengaluru, India',
-    period: 'July 2024 – March 2025',
+    period: 'June 2024 – February 2025',
     product: 'Learning Management System (LMS)',
     type: 'fulltime',
     points: [
