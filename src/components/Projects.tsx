@@ -99,6 +99,7 @@ const projects: Project[] = [
       'Authored automated test suites with pytest and Playwright, containerized with Docker, and deployed on cloud staging.',
     ],
     status: 'featured',
+    githubUrl: 'https://github.com/Soundarya331/hydra-curls-ai-commerce/tree/main/assignment-2-ecommerce',
   },
   {
     id: '05',
